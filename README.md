@@ -1,4 +1,4 @@
-# Estudos-CloudKit-Heran-aVSProtocols-Minigame
+# Estudos-CloudKit-Heran-aVSProtocols-MapKit
 Códigos do quarto nano challenge
 
 Projeto coresEnomes é um mini joguinho de acertar as cores de acordo com a cor pedida, foi feito com POP e ainda precisa de alguns retoques básicos.
